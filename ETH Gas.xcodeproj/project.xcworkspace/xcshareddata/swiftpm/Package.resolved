@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "retroswift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/MaxenceMottard/RetroSwift",
+      "state" : {
+        "revision" : "54c16f5597a4bd362c392e3eab40cd0086f1ebb1",
+        "version" : "2.0.1"
+      }
+    }
+  ],
+  "version" : 2
+}
